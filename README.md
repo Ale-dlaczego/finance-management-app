@@ -8,4 +8,4 @@ wip.
 [Figma project](https://www.figma.com/file/Wh99DRNMALvXrJOEaXscZV/FMA-(UI)?node-id=5:2&frame-preset-name=Desktop)
 
 ## 🗂 Kanban
-[Github project](https://github.com/Ale-dlaczego/finance-management-app/projects/1)
+[Todoist project](https://todoist.com/app/project/2261659913)
