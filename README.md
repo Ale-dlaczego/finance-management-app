@@ -1,2 +1,5 @@
-# finance-management-app
-Application (web w/ rwd mobile UI) to management your expenses and keep track of reamining budget.
+# 💵 FMA (finance-management-app)
+This app will allow you to keep track of your expenses and reamining budget.
+
+## Technical stuff
+wip.
