@@ -11,6 +11,7 @@ interface Props {
 const ExampleComponent: React.FC<Props> = ({ text, optionalText, optionalBoolean }) => {
 	return (
 		<>
+			<h1>Travis test</h1>
 			<div className="card p-5 example-component">
 				<h2 className="mb-3">This is example component</h2>
 				<h4 className="mb-5">{text}</h4>
