@@ -6,8 +6,8 @@ import { routes } from "./routes";
 const Router: React.FC = () => {
 	return (
 		<BrowserRouter>
-			{routes.map((r) => (
-				<Route path={r.path} exact={r.exact} component={r.component}></Route>
+			{routes.map((r, index) => (
+				<Route path={r.path} exact={r.exact} component={r.component} key={`route_${index}-${r.path}`}></Route>
 			))}
 		</BrowserRouter>
 	);
