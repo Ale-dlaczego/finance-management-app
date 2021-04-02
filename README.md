@@ -2,7 +2,7 @@
 
 This app will allow you to keep track of your expenses and reamining budget.
 
-## 👉 [Dev test env](https://ale-dlaczeg-fma.herokuapp.com/)
+## 👉 [Live testing environment](https://ale-dlaczego-fma.herokuapp.com/)
 
 ---
 
