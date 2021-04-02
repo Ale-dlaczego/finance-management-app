@@ -4,7 +4,7 @@ This app will allow you to keep track of your expenses and reamining budget.
 
 ---
 
-##💻 Technical stuff
+## 💻 Technical stuff
 
 ### Project start
 
