@@ -1,0 +1,22 @@
+.balance-card {
+	max-width: 140px;
+	min-height: 160px;
+	background-color: white;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 15px;
+	padding-left: 20px;
+	h3 {
+		font-size: 16px;
+		font-weight: 600;
+	}
+	h2 {
+		color: #3885d0;
+		font-size: 22px;
+		margin-top: 1.5rem;
+	}
+	p {
+		margin-top: 1.7rem;
+	}
+}
